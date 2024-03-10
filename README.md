@@ -6,7 +6,7 @@
 - [Interface Design](#interface-design)
 - [Technologies](#technologies)
 - [Setup](#setup)
-- [Status](#status)
+- [Research Papers](#research-papers)
 - [Credits](#credits)
 
 
@@ -36,8 +36,9 @@ Same is true for normal eye image
 - add this file inside /multipage/pages
 - run 1_Home.py using streamlit run <pathname>
 
-## Status
-The Project is Completed...
+## Research Papers
+- XAI meets Ophthalmology: An Explainable Approach to Cataract Detection using VGG-19 and Grad-CAM ([IEEE Link](https://ieeexplore-ieee-org.proxyiub.uits.iu.edu/document/10450053))
+- Exploring the Potentials of Explainable AI for Early Cataract Detection to Foster Accessible Healthcare ([JUSST Link](https://jusst.org/exploring-the-potentials-of-explainable-ai-for-early-cataract-detection-to-foster-accessible-healthcare/))
 
 ## Credits
 List of contriubutors:
